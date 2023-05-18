@@ -93,7 +93,6 @@
     padding-right: 30px;
   }
 }
-
 @media screen and (max-width: 1100px) {
 }
 @media screen and (max-width: 1000px) {
@@ -107,48 +106,44 @@
     display: block !important;
   }
   .header__logo {
-   margin: auto;
-   width: 100%;
-   justify-content: center;
+    margin: auto;
+    width: 100%;
+    justify-content: center;
   }
 }
 @media screen and (max-width: 490px) {
-    .header__container {
-        padding-left: 10px;
-        padding-right: 10px;
-      }
+  .header__container {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
   .buy_btn--m {
     width: 90px;
     height: 25px;
     font-size: 9px;
   }
-    .header__logo{
-        font-size: 16px;
-    }
-    .fa-bullseye {
-      width: 30px;
-      height: 30px;
-      font-size: 20px;
-      margin-right: 50px;
-    }
-
-
+  .header__logo {
+    font-size: 16px;
+  }
+  .fa-bullseye {
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    margin-right: 50px;
+  }
 }
 @media screen and (max-width: 420px) {
-
-    .buy_btn--m {
-        width: 80px;
-        height: 20px;
-        font-size: 7px;
-      }
-        .header__logo{
-            font-size: 16px;
-        }
-        .fa-bullseye {
-          width: 25px;
-          height: 25px;
-          font-size: 23px;
-          margin-right: 50px;
-        }
-
+  .buy_btn--m {
+    width: 80px;
+    height: 20px;
+    font-size: 7px;
+  }
+  .header__logo {
+    font-size: 16px;
+  }
+  .fa-bullseye {
+    width: 25px;
+    height: 25px;
+    font-size: 23px;
+    margin-right: 50px;
+  }
 }
